@@ -1,0 +1,21 @@
+{
+  "schema": "techpack-project-v1",
+  "name": "Project name",
+  "fields": {
+    "brand": "",
+    "designer": "",
+    "season": "",
+    "date": "",
+    "mainFabric": "",
+    "sizeRange": "",
+    "styleName": "",
+    "styleNum": ""
+  },
+  "views": [
+    {
+      "label": "FRONT VIEW",
+      "image": "https://your-secure-image-host.example/front.jpg",
+      "notes": ""
+    }
+  ]
+}
